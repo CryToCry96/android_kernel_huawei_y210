@@ -63,6 +63,6 @@ summary from [1.]>" for easy identification by the developers.
        (please look in /proc and include all information that you
        think to be relevant):
 [X.] Other notes, patches, fixes, workarounds:
-
+    -Bluetooth BCM not found!
 
 Thank you
