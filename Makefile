@@ -549,7 +549,7 @@ KBUILD_CFLAGS	+= -O2
 endif
 
 # Add Huawei Marco for different BT chip
-KBUILD_CFLAGS += -DHUAWEI_BT_BCM4330
+KBUILD_CFLAGS += -DHUAWEI_BT_WCN2243
 endif
 include $(srctree)/arch/$(SRCARCH)/Makefile
 
